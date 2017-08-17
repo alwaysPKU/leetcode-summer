@@ -5,11 +5,11 @@ package Solution;
  */
 public class Wildcard_Matching_greedy {
     public static void main(String[] args) {
-        System.out.print(isMatch("abab","a**b"));
+        System.out.print(isMatch("abab","aa"));
 
     }
     public static boolean isMatch(String s, String p){
-        int str= 0,pattern=0,match=0,starIdx=1;
+        int str= 0,pattern=0,match=0,starIdx=-1;
         while (str<s.length()){
             if (pattern<p.length()&&(p.charAt(pattern)=='?'||s.charAt(str)==p.charAt(pattern))){
                 str++;
