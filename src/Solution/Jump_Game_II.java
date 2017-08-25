@@ -5,7 +5,7 @@ package Solution;
  */
 public class Jump_Game_II {
     public static void main(String[] args) {
-        int[] nums = {1,2,3};
+        int[] nums = {2,3,1,2,4};
         System.out.print(jump(nums));
 
     }
@@ -20,6 +20,7 @@ public class Jump_Game_II {
             if (i>lastReach){
                 step++;
                 lastReach=reach;
+                if(lastReach==nums.length-1) return step;//提前终止
             }
             reach=Math.max(reach,nums[i]+i);
         }
@@ -27,3 +28,5 @@ public class Jump_Game_II {
         return step;
     }
 }
+
+
