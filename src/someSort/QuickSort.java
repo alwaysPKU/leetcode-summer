@@ -14,12 +14,12 @@ public class QuickSort {
 
     public static void quick_Sort(int[] a,int low, int high){
         if (low<high){
-            int pivot = partation(a,low,high);
+            int pivot = partition(a,low,high);
             quick_Sort(a,low,pivot-1);
             quick_Sort(a,pivot+1,high);
         }
     }
-    private static int partation(int[] a,int low,int high){
+    private static int partition(int[] a,int low,int high){
         int pivot = a[low];
         while (low<high){
             while (low<high&&a[high]>=pivot) high--;
