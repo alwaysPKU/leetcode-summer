@@ -2,6 +2,7 @@ package someSort;
 
 /**
  * Created by zhangwei on 2017/7/20.
+ * 堆排序
  */
 public class heapSort {
     public static void main(String[] args) {
@@ -13,7 +14,7 @@ public class heapSort {
 
     }
     public static int[] heap_sort(int[] a){
-        a=build_max_heap(a,a.length);
+        a=build_max_heap(a,a.length);//把a建成最大堆
         int[] res = new int[a.length];
         int j = 0;
         for (int i =a.length;i>0;i--){
@@ -38,9 +39,9 @@ public class heapSort {
     private static void Adjust_Down(int[] array,int k,int length){
         int temp = array[k];
         for(int i=2*k+1; i<length-1; i=2*i+1){    //i为初始化为节点k的左孩子，沿节点较大的子节点向下调整
-             if(i<length && array[i]<array[i+1]){  //取节点较大的子节点的下标
+            if(i<length && array[i]<array[i+1]){  //取节点较大的子节点的下标
                  i++;   //如果节点的右孩子>左孩子，则取右孩子节点的下标
-             }
+            }
             if(temp>=array[i]){  //根节点 >=左右子女中关键字较大者，调整结束
                 break;
             }else{   //根节点 <左右子女中关键字较大者
