@@ -2,6 +2,7 @@ package Solution;
 
 /**
  * Created by zhangwei on 2017/8/30.
+ * 积最大的子串
  * 维护两个局部变量，一个最大，一个最小
  * 维护一个全局变量
  * 动态规划
