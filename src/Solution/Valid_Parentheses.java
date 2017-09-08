@@ -4,12 +4,10 @@ import java.util.Stack;
 
 /**
  * Created by zhangwei on 2017/7/23.
+ * 合法的括号匹配
  */
 public class Valid_Parentheses {
-    public static void main(String[] args) {
-
-    }
-    public boolean isValid(String s) {
+    public static boolean isValid(String s) {
         if (s.length()==0||s.length()==1) return false;
 
         Stack<Character> cup = new Stack<>();
