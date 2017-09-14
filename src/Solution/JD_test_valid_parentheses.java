@@ -1,6 +1,8 @@
 package Solution;
 
 
+import java.util.Collections;
+
 /**
  * Created by zhangwei on 2017/9/8.
  *
