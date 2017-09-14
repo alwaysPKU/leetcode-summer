@@ -7,7 +7,7 @@ package Solution;
  * 输入一个字符串s
  * 输出两个s（可有重合部分），长度最短
  */
-public class Double_String {
+public class JD_Double_String {
     public static void main(String[] args) {
         String s = "abracadabra";
         String res = double_S(s);
