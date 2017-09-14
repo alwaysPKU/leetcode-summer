@@ -13,20 +13,6 @@ import java.util.Set;
  * 2.从前往后合并，并mark被合并的区间，不要重复遍历
  */
 public class Merge_Intervals {
-    public static void main(String[] args) {
-        Interval s1 = new Interval(2,3);
-        Interval s2 = new Interval(4,5);
-        Interval s3 = new Interval(6,7);
-        Interval s4 = new Interval(8,9);
-        Interval s5 = new Interval(1,10);
-        List<Interval> a = new ArrayList<>();
-        a.add(s1);
-        a.add(s2);
-        a.add(s3);
-        a.add(s4);
-        a.add(s5);
-        List<Interval> res = merge(a);
-    }
     public static List<Interval> merge(List<Interval> intervals) {
         //排个序
         quick_Sort_Interval(intervals,0,intervals.size()-1);
