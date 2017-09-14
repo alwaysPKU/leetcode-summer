@@ -4,10 +4,12 @@ import java.util.LongSummaryStatistics;
 
 /**
  * Created by zhangwei on 2017/7/4.
+ *
+ * 这个方法超时了
  */
 public class longestPalindromicSubstring {
     public static void main(String[] args) {
-        System.out.print(longestPalindrome("jk"));
+        System.out.print(longestPalindrome("jkj"));
     }
 
     public static String longestPalindrome(String s) {
