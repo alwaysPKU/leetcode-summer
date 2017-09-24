@@ -1,9 +1,6 @@
 package someSearch;
 
 
-import java.util.Collections;
-import java.util.Comparator;
-
 /**
  * Created by zhangwei on 2017/9/24.
  * 二叉树查找算法。
