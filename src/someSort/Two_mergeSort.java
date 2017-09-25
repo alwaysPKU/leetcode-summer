@@ -26,6 +26,7 @@ public class Two_mergeSort {
     public static void Merge(int[] a ,int low, int mid, int high){
         int[] b= new int[a.length];
         System.out.println("merge " + low + "~" + mid+"~" + high);
+        //把a里的两部分给归并了
         int tag1=low,tag2=mid+1,tag3=low;
         while (tag1<=mid&&tag2<=high){
             if (a[tag1]<a[tag2]) b[tag3++]=a[tag1++];
