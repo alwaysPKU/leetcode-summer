@@ -2,6 +2,8 @@ package leetcoot_contest_47;
 
 /**
  * Created by zhangwei on 2017/8/27.
+ *
+ * 只要修改一个数就能升序
  */
 public class Non_decreasing_Array {
     public static void main(String[] args) {
