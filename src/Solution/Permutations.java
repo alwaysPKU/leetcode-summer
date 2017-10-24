@@ -5,6 +5,7 @@ import java.util.List;
 
 /**
  * Created by zhangwei on 2017/8/25.
+ *
  */
 public class Permutations {
     public static void main(String[] args) {
