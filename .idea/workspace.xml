@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5963dd73-e440-4a20-bda7-192ce7fb657a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode_summer/Solution/Add_two_numbers.class" afterPath="$PROJECT_DIR$/out/production/leetcode_summer/Solution/Add_two_numbers.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution/Partition_List.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/test_for_minpath.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/test_for_plusOne.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode_summer/Solution/Combination_Sum_II.class" afterPath="$PROJECT_DIR$/out/production/leetcode_summer/Solution/Combination_Sum_II.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode_summer/Solution/Jump_Game_II.class" afterPath="$PROJECT_DIR$/out/production/leetcode_summer/Solution/Jump_Game_II.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode_summer/Solution/ListNode.class" afterPath="$PROJECT_DIR$/out/production/leetcode_summer/Solution/ListNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode_summer/Solution/Valid_Parentheses.class" afterPath="$PROJECT_DIR$/out/production/leetcode_summer/Solution/Valid_Parentheses.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode_summer/Solution/longestPalindromicSubstring.class" afterPath="$PROJECT_DIR$/out/production/leetcode_summer/Solution/longestPalindromicSubstring.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode_summer/someSort/QuickSort.class" afterPath="$PROJECT_DIR$/out/production/leetcode_summer/someSort/QuickSort.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode_summer/someSort/Two_mergeSort.class" afterPath="$PROJECT_DIR$/out/production/leetcode_summer/someSort/Two_mergeSort.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/leetcode_summer/someSort/heapSort.class" afterPath="$PROJECT_DIR$/out/production/leetcode_summer/someSort/heapSort.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,26 +37,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Permutations.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solution/Permutations.java">
+      <file leaf-file-name="Partition_List.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Solution/Partition_List.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="22" column="4" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Permutations_II.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Solution/Permutations_II.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="46" column="5" lean-forward="true" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="476">
+              <caret line="28" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -70,57 +68,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Solution/romanToInt.java" />
-        <option value="$PROJECT_DIR$/src/someSort/HeapSort.java" />
-        <option value="$PROJECT_DIR$/src/someSort/heapSort.java" />
-        <option value="$PROJECT_DIR$/src/someSort/QuickSort.java" />
-        <option value="$PROJECT_DIR$/src/someSort/Two_mergeSort.java" />
-        <option value="$PROJECT_DIR$/src/External_Sorting/sort.java" />
-        <option value="$PROJECT_DIR$/src/External_Sorting/ExternalSort.java" />
-        <option value="$PROJECT_DIR$/src/Solution/maxArea.java" />
-        <option value="$PROJECT_DIR$/src/Solution/ThreeSum_Closest.java" />
-        <option value="$PROJECT_DIR$/src/Solution/longestCommonPrefix.java" />
-        <option value="$PROJECT_DIR$/src/Solution/LetterCombinationsofaPhoneNumber.java" />
-        <option value="$PROJECT_DIR$/src/Solution/test.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Four_sum.java" />
+        <option value="$PROJECT_DIR$/src/Solution/Interval.java" />
+        <option value="$PROJECT_DIR$/src/Solution/Double_String.java" />
         <option value="$PROJECT_DIR$/src/Solution/Valid_Parentheses.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Remove_Nth_Node_From_End_of_List.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Merge_Two_Sorted_Lists.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Generate_Parentheses.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Merge_k_Sorted_Lists.java" />
-        <option value="$PROJECT_DIR$/src/the_wealth/random_wealth.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Swap_Nodes_in_Pairs.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Reverse_Nodes_in_k_Group.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Remove_Element.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Implement_strStr.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Divide_Two_Integers.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Substring_with_Concatenation_of_All_Words.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Next_Permutation.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Longest_Valid_Parentheses.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Search_in_Rotated_Sorted_Array.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Search_fo_a_Range.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Search_Insert_Position.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Valid_Sudoku.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Sudoku_Solver.java" />
-        <option value="$PROJECT_DIR$/src/Solution/text2.java" />
-        <option value="$PROJECT_DIR$/src/Solution/text.java" />
-        <option value="$PROJECT_DIR$/src/test/test4.java" />
-        <option value="$PROJECT_DIR$/src/test/Test_fo.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Maximum_Product_of_Word_Lengths.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Count_and_Say.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Combination_Sum.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Combination_Sum_II.java" />
-        <option value="$PROJECT_DIR$/src/Solution/First_Missing_Positive.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Longest_Substring_with_At_Least_K_Repeating_Characters.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Trapping_Rain_Water.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Multiply_Strings.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Add_two_numbers.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Wildcard_Matching.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Wildcard_Matching_DP.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Wildcard_Matching_greedy.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Jump_Game_II.java" />
+        <option value="$PROJECT_DIR$/src/Solution/JD_test_valid_parentheses.java" />
+        <option value="$PROJECT_DIR$/src/Solution/longestPalindromicSubstring.java" />
+        <option value="$PROJECT_DIR$/src/Solution/Merge_Intervals.java" />
+        <option value="$PROJECT_DIR$/src/Solution/Merge_Intervals_II.java" />
+        <option value="$PROJECT_DIR$/src/Solution/Insert_interval.java" />
+        <option value="$PROJECT_DIR$/src/Solution/JD_Double_String.java" />
+        <option value="$PROJECT_DIR$/src/Solution/Spiral_Matrix.java" />
+        <option value="$PROJECT_DIR$/src/Solution/Spiral_Matrix_II.java" />
+        <option value="$PROJECT_DIR$/src/leetcoot_contest_47/Non_decreasing_Array.java" />
+        <option value="$PROJECT_DIR$/src/Solution/Permutation_Sequence.java" />
+        <option value="$PROJECT_DIR$/src/Solution/Permutation_Sequence_II.java" />
+        <option value="$PROJECT_DIR$/src/someSearch/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/someSearch/insertionSearch.java" />
+        <option value="$PROJECT_DIR$/src/someSearch/InsertionSearch.java" />
+        <option value="$PROJECT_DIR$/src/Solution/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/someSearch/node.java" />
+        <option value="$PROJECT_DIR$/src/someSearch/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/someSort/Two_mergeSort.java" />
+        <option value="$PROJECT_DIR$/src/someSort/read_me" />
+        <option value="$PROJECT_DIR$/src/Solution/Rotate_List.java" />
+        <option value="$PROJECT_DIR$/src/Solution/Unique_Pathes_II.java" />
+        <option value="$PROJECT_DIR$/src/Solution/Unique_Paths.java" />
+        <option value="$PROJECT_DIR$/src/Solution/Unique_Paths_II.java" />
+        <option value="$PROJECT_DIR$/src/test/test_for_minpath.java" />
+        <option value="$PROJECT_DIR$/src/Solution/Minimum_Path_Sum.java" />
+        <option value="$PROJECT_DIR$/src/test/test_for_plusOne.java" />
+        <option value="$PROJECT_DIR$/src/Solution/Plus_One.java" />
+        <option value="$PROJECT_DIR$/src/Solution/Add_Binary.java" />
         <option value="$PROJECT_DIR$/src/Solution/Permutations.java" />
-        <option value="$PROJECT_DIR$/src/Solution/Permutations_II.java" />
+        <option value="$PROJECT_DIR$/src/test_msra.java" />
+        <option value="$PROJECT_DIR$/src/Solution/Edit_Distance.java" />
+        <option value="$PROJECT_DIR$/src/Solution/Sqrt.java" />
+        <option value="$PROJECT_DIR$/src/someSort/a_read_me" />
+        <option value="$PROJECT_DIR$/src/Solution/Simplify_Path.java" />
+        <option value="$PROJECT_DIR$/src/Solution/Set_Matrix_Zeroes.java" />
+        <option value="$PROJECT_DIR$/src/Solution/Search_a_2D_Matrix.java" />
+        <option value="$PROJECT_DIR$/src/Solution/Search_a_2D_Matrix_II.java" />
+        <option value="$PROJECT_DIR$/src/Solution/Sort_colors.java" />
+        <option value="$PROJECT_DIR$/src/test/main.java" />
+        <option value="$PROJECT_DIR$/src/Solution/Combinations.java" />
+        <option value="$PROJECT_DIR$/src/Solution/Minimum_Window_Substring.java" />
+        <option value="$PROJECT_DIR$/src/Solution/Subsets.java" />
+        <option value="$PROJECT_DIR$/src/Solution/Word_Search.java" />
+        <option value="$PROJECT_DIR$/src/Solution/Remove_Duplicates_from_Sorted_Array.java" />
+        <option value="$PROJECT_DIR$/src/Solution/Remove_Duplicates_from_Sorted_List_II.java" />
+        <option value="$PROJECT_DIR$/src/Solution/Search_in_Rotated_Sorted_Array_II.java" />
+        <option value="$PROJECT_DIR$/src/Solution/Remove_Duplicates_from_Sorted_List.java" />
+        <option value="$PROJECT_DIR$/src/Solution/Partition_List.java" />
       </list>
     </option>
   </component>
@@ -133,9 +131,11 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="730" />
+    <option name="height" value="729" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -191,7 +191,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="someSort" />
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -224,7 +224,10 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="github&#9;ACTION&#9;Github.Share" />
+    <property name="SearchEverywhereHistoryKey" value="Tree&#9;FILE&#9;file:///Users/zhangwei/IdeaProjects/leetcode_summer/src/Solution/Unique_Binary_Search_Trees_II.java&#10;github&#9;ACTION&#9;Github.Share" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -238,15 +241,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Jump_Game_II">
-    <configuration default="false" name="Wildcard_Matching_DP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Combinations">
+    <configuration default="false" name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Solution.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Solution.Wildcard_Matching_DP" />
+      <option name="MAIN_CLASS_NAME" value="test.main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -259,14 +262,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Wildcard_Matching_greedy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="test_for_minpath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Solution.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Solution.Wildcard_Matching_greedy" />
+      <option name="MAIN_CLASS_NAME" value="test.test_for_minpath" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -279,14 +282,34 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="heapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="test_for_plusOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="test.test_for_plusOne" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="leetcode_summer" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="a_test_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="someSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="someSort.heapSort" />
+      <option name="MAIN_CLASS_NAME" value="someSort.a_test_Sort" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -299,34 +322,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Two_mergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="someSort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="someSort.Two_mergeSort" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="leetcode_summer" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Jump_Game_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Combinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="Solution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Solution.Jump_Game_II" />
+      <option name="MAIN_CLASS_NAME" value="Solution.Combinations" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -800,19 +803,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Wildcard_Matching_DP" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Wildcard_Matching_greedy" />
-      <item index="2" class="java.lang.String" itemvalue="Application.heapSort" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Two_mergeSort" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Jump_Game_II" />
+      <item index="0" class="java.lang.String" itemvalue="Application.main" />
+      <item index="1" class="java.lang.String" itemvalue="Application.test_for_minpath" />
+      <item index="2" class="java.lang.String" itemvalue="Application.test_for_plusOne" />
+      <item index="3" class="java.lang.String" itemvalue="Application.a_test_Sort" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Combinations" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Jump_Game_II" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Two_mergeSort" />
-        <item index="2" class="java.lang.String" itemvalue="Application.heapSort" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Wildcard_Matching_greedy" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Wildcard_Matching_DP" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Combinations" />
+        <item index="1" class="java.lang.String" itemvalue="Application.main" />
+        <item index="2" class="java.lang.String" itemvalue="Application.a_test_Sort" />
+        <item index="3" class="java.lang.String" itemvalue="Application.test_for_plusOne" />
+        <item index="4" class="java.lang.String" itemvalue="Application.test_for_minpath" />
       </list>
     </recent_temporary>
   </component>
@@ -872,62 +875,399 @@
       <workItem from="1502894404742" duration="5948000" />
       <workItem from="1503500368581" duration="335000" />
       <workItem from="1503563940763" duration="5111000" />
-      <workItem from="1503656495193" duration="906000" />
+      <workItem from="1503656495193" duration="5885000" />
+      <workItem from="1503715428803" duration="14195000" />
+      <workItem from="1503797273773" duration="8617000" />
+      <workItem from="1503824164803" duration="2928000" />
+      <workItem from="1503835904899" duration="7194000" />
+      <workItem from="1504097990270" duration="7516000" />
+      <workItem from="1504109249006" duration="225000" />
+      <workItem from="1504511803106" duration="4324000" />
+      <workItem from="1504532871745" duration="4324000" />
+      <workItem from="1504617972346" duration="5837000" />
+      <workItem from="1504772863554" duration="3070000" />
+      <workItem from="1504780083274" duration="4323000" />
+      <workItem from="1504869677010" duration="7296000" />
+      <workItem from="1504878457466" duration="1932000" />
+      <workItem from="1504882656949" duration="444000" />
+      <workItem from="1504883688515" duration="454000" />
+      <workItem from="1505029456226" duration="2119000" />
+      <workItem from="1505367761066" duration="8898000" />
+      <workItem from="1505388019106" duration="3025000" />
+      <workItem from="1506132384190" duration="5787000" />
+      <workItem from="1506232227653" duration="6777000" />
+      <workItem from="1506246324764" duration="11631000" />
+      <workItem from="1506318102755" duration="13835000" />
+      <workItem from="1506421342475" duration="1204000" />
+      <workItem from="1506681610150" duration="3092000" />
+      <workItem from="1507194072962" duration="16000" />
+      <workItem from="1508057193807" duration="878000" />
+      <workItem from="1508060714569" duration="472000" />
+      <workItem from="1508238025143" duration="291000" />
+      <workItem from="1508240788030" duration="54000" />
+      <workItem from="1508400263974" duration="837000" />
+      <workItem from="1508476925948" duration="182000" />
+      <workItem from="1508477159419" duration="64000" />
+      <workItem from="1508755631116" duration="6162000" />
+      <workItem from="1508846567532" duration="3251000" />
+      <workItem from="1508908512031" duration="3404000" />
+      <workItem from="1508912284895" duration="548000" />
+      <workItem from="1508927144544" duration="3659000" />
+      <workItem from="1509018090312" duration="2931000" />
+      <workItem from="1509977613335" duration="1076000" />
+      <workItem from="1510037377826" duration="4493000" />
+      <workItem from="1510237311762" duration="735000" />
+      <workItem from="1510496978702" duration="752000" />
+      <workItem from="1511318325061" duration="1106000" />
     </task>
-    <task id="LOCAL-00001" summary="test">
-      <created>1502867367504</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
+    <task id="LOCAL-00035" summary="字典">
+      <created>1504624005594</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
       <option name="project" value="LOCAL" />
-      <updated>1502867367504</updated>
+      <updated>1504624005594</updated>
     </task>
-    <task id="LOCAL-00002" summary="wildcard_match_dp">
-      <created>1502948381129</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
+    <task id="LOCAL-00036" summary="2017京东算法题1">
+      <created>1504883727880</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
       <option name="project" value="LOCAL" />
-      <updated>1502948381129</updated>
+      <updated>1504883727880</updated>
     </task>
-    <task id="LOCAL-00003" summary="wildcard_match_greedy">
-      <created>1502948399859</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
+    <task id="LOCAL-00037" summary="一个数据结构">
+      <created>1504883743866</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
       <option name="project" value="LOCAL" />
-      <updated>1502948399859</updated>
+      <updated>1504883743866</updated>
     </task>
-    <task id="LOCAL-00004" summary="wildcard_match_greedy 修改">
-      <created>1502949925498</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
+    <task id="LOCAL-00038" summary="2017京东算法题2">
+      <created>1504883765855</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
       <option name="project" value="LOCAL" />
-      <updated>1502949925498</updated>
+      <updated>1504883765855</updated>
     </task>
-    <task id="LOCAL-00005" summary="jump game II">
-      <created>1503567330070</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
+    <task id="LOCAL-00039" summary="jump game">
+      <created>1504883785023</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
       <option name="project" value="LOCAL" />
-      <updated>1503567330070</updated>
+      <updated>1504883785023</updated>
     </task>
-    <task id="LOCAL-00006" summary="permutations 全排列">
-      <created>1503639136832</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
+    <task id="LOCAL-00040" summary="merge intervals">
+      <created>1504883837463</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
       <option name="project" value="LOCAL" />
-      <updated>1503639136832</updated>
+      <updated>1504883837463</updated>
     </task>
-    <task id="LOCAL-00007" summary="jump game II">
-      <created>1503639184656</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
+    <task id="LOCAL-00041" summary="括号对是否合法">
+      <created>1504883860569</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
       <option name="project" value="LOCAL" />
-      <updated>1503639184656</updated>
+      <updated>1504883860569</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00042" summary="merge_interval_11重写conparator">
+      <created>1505391393309</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1505391393309</updated>
+    </task>
+    <task id="LOCAL-00043" summary="merge intervals">
+      <created>1505391422615</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1505391422615</updated>
+    </task>
+    <task id="LOCAL-00044" summary="longestpalindromic substring">
+      <created>1505391454644</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1505391454644</updated>
+    </task>
+    <task id="LOCAL-00045" summary="JD test">
+      <created>1505391478504</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1505391478504</updated>
+    </task>
+    <task id="LOCAL-00046" summary="JD test">
+      <created>1505391489686</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1505391489686</updated>
+    </task>
+    <task id="LOCAL-00047" summary="insert interval">
+      <created>1505391506241</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1505391506241</updated>
+    </task>
+    <task id="LOCAL-00048" summary="螺旋输出矩阵元素">
+      <created>1505391530910</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1505391530910</updated>
+    </task>
+    <task id="LOCAL-00049" summary="建立螺旋矩阵">
+      <created>1505391547799</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1505391547799</updated>
+    </task>
+    <task id="LOCAL-00050" summary="差值查找">
+      <created>1506234713763</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1506234713765</updated>
+    </task>
+    <task id="LOCAL-00051" summary="二分查找">
+      <created>1506234726253</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1506234726253</updated>
+    </task>
+    <task id="LOCAL-00052" summary="序列">
+      <created>1506236247947</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1506236247947</updated>
+    </task>
+    <task id="LOCAL-00053" summary="序列2">
+      <created>1506236263998</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1506236263998</updated>
+    </task>
+    <task id="LOCAL-00054" summary="链表节点">
+      <created>1506236333287</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1506236333287</updated>
+    </task>
+    <task id="LOCAL-00055" summary="二叉搜索树">
+      <created>1506247171679</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1506247171680</updated>
+    </task>
+    <task id="LOCAL-00056" summary="排序说明">
+      <created>1506250208217</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1506250208217</updated>
+    </task>
+    <task id="LOCAL-00057" summary="二叉排序树">
+      <created>1506250238412</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1506250238412</updated>
+    </task>
+    <task id="LOCAL-00058" summary="二方向&#10;路径问题">
+      <created>1506314696926</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1506314696926</updated>
+    </task>
+    <task id="LOCAL-00059" summary="二方向路径有障碍&#10;问题">
+      <created>1506314722413</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1506314722413</updated>
+    </task>
+    <task id="LOCAL-00060" summary="链表循环">
+      <created>1506314782265</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1506314782265</updated>
+    </task>
+    <task id="LOCAL-00061" summary="二分归并排序">
+      <created>1506314855040</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1506314855040</updated>
+    </task>
+    <task id="LOCAL-00062" summary="排序read me">
+      <created>1506314871365</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1506314871365</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Dp">
+      <created>1506337338540</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1506337338540</updated>
+    </task>
+    <task id="LOCAL-00064" summary="plus one">
+      <created>1506421770833</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1506421770835</updated>
+    </task>
+    <task id="LOCAL-00065" summary="二进制相加">
+      <created>1506421824228</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1506421824228</updated>
+    </task>
+    <task id="LOCAL-00066" summary="leetcode_contest47_1">
+      <created>1506422734300</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1506422734300</updated>
+    </task>
+    <task id="LOCAL-00067" summary="最短编辑距离">
+      <created>1508846615635</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1508846615635</updated>
+    </task>
+    <task id="LOCAL-00068" summary="，">
+      <created>1508846648803</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1508846648803</updated>
+    </task>
+    <task id="LOCAL-00069" summary="二维矩阵元素查找">
+      <created>1508846679852</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1508846679852</updated>
+    </task>
+    <task id="LOCAL-00070" summary="二维矩阵查找，有重复区间">
+      <created>1508846697484</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1508846697485</updated>
+    </task>
+    <task id="LOCAL-00071" summary="设置矩阵元素为0">
+      <created>1508846715750</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1508846715750</updated>
+    </task>
+    <task id="LOCAL-00072" summary="路径简化">
+      <created>1508846732016</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1508846732016</updated>
+    </task>
+    <task id="LOCAL-00073" summary="开方">
+      <created>1508846746430</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1508846746430</updated>
+    </task>
+    <task id="LOCAL-00074" summary="排序说明">
+      <created>1508847211173</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1508847211173</updated>
+    </task>
+    <task id="LOCAL-00075" summary="求子集">
+      <created>1509021484087</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1509021484088</updated>
+    </task>
+    <task id="LOCAL-00076" summary="颜色排序">
+      <created>1509021514478</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1509021514478</updated>
+    </task>
+    <task id="LOCAL-00077" summary="substring">
+      <created>1510237800181</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1510237800184</updated>
+    </task>
+    <task id="LOCAL-00078" summary="remove duplicates">
+      <created>1510237825223</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1510237825224</updated>
+    </task>
+    <task id="LOCAL-00079" summary="remove duplicates">
+      <created>1510237846953</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1510237846953</updated>
+    </task>
+    <task id="LOCAL-00080" summary="r">
+      <created>1510237867082</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1510237867082</updated>
+    </task>
+    <task id="LOCAL-00081" summary="search">
+      <created>1510237879759</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1510237879759</updated>
+    </task>
+    <task id="LOCAL-00082" summary="search">
+      <created>1510237908563</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1510237908563</updated>
+    </task>
+    <task id="LOCAL-00083" summary="search">
+      <created>1510237924644</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1510237924644</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169936000" />
+    <option name="totallyTimeSpent" value="334873000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -939,29 +1279,30 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="730" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="729" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15748031" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15686275" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28895614" sideWeight="0.503125" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19370079" sideWeight="0.50625" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22204724" sideWeight="0.496875" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15849674" sideWeight="0.49375" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16503268" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16666667" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2421875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.184375" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24798061" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08046875" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24140625" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12035541" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -969,8 +1310,39 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29291338" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19370079" sideWeight="0.50625" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08046875" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="7.8125E-4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15748031" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29291338" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13700788" sideWeight="0.49375" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1640625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -979,20 +1351,39 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="test" />
-    <MESSAGE value="wildcard_match_dp" />
-    <MESSAGE value="wildcard_match_greedy" />
-    <MESSAGE value="wildcard_match_greedy 修改" />
-    <MESSAGE value="permutations 全排列" />
-    <MESSAGE value="jump game II" />
-    <option name="LAST_COMMIT_MESSAGE" value="jump game II" />
+    <MESSAGE value="二叉搜索树" />
+    <MESSAGE value="二叉排序树" />
+    <MESSAGE value="二方向&#10;路径问题" />
+    <MESSAGE value="二方向路径有障碍&#10;问题" />
+    <MESSAGE value="链表循环" />
+    <MESSAGE value="二分归并排序" />
+    <MESSAGE value="排序read me" />
+    <MESSAGE value="Dp" />
+    <MESSAGE value="plus one" />
+    <MESSAGE value="二进制相加" />
+    <MESSAGE value="leetcode_contest47_1" />
+    <MESSAGE value="最短编辑距离" />
+    <MESSAGE value="，" />
+    <MESSAGE value="二维矩阵元素查找" />
+    <MESSAGE value="二维矩阵查找，有重复区间" />
+    <MESSAGE value="设置矩阵元素为0" />
+    <MESSAGE value="路径简化" />
+    <MESSAGE value="开方" />
+    <MESSAGE value="排序说明" />
+    <MESSAGE value="求子集" />
+    <MESSAGE value="颜色排序" />
+    <MESSAGE value="substring" />
+    <MESSAGE value="remove duplicates" />
+    <MESSAGE value="r" />
+    <MESSAGE value="search" />
+    <option name="LAST_COMMIT_MESSAGE" value="search" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="143" />
+      <option name="time" value="238" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1001,350 +1392,453 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Solution/Valid_Parentheses.java">
+    <entry file="file://$PROJECT_DIR$/src/someSort/Select_Sort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="26" selection-end-column="29" />
+        <state relative-caret-position="80">
+          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/Four_sum.java">
+    <entry file="file://$PROJECT_DIR$/src/someSort/Shell_Sort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" column="59" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="59" />
+        <state relative-caret-position="320">
+          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/someSort/Two_mergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution/Unique_Pathes_II.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="149" column="11" lean-forward="false" selection-start-line="149" selection-start-column="11" selection-end-line="149" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution/Rotate_List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="28" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution/Unique_Paths_II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="32" column="25" lean-forward="false" selection-start-line="32" selection-start-column="25" selection-end-line="60" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution/Unique_Paths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="51" column="5" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution/Minimum_Path_Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/Remove_Nth_Node_From_End_of_List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/Merge_Two_Sorted_Lists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/Generate_Parentheses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/Merge_k_Sorted_Lists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/Reverse_Nodes_in_k_Group.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/Swap_Nodes_in_Pairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="28" column="29" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="28" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/Remove_Element.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/Divide_Two_Integers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="15" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/Substring_with_Concatenation_of_All_Words.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1060">
-          <caret line="55" column="34" lean-forward="false" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/Implement_strStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/Next_Permutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/Longest_Valid_Parentheses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/Search_in_Rotated_Sorted_Array.java">
+    <entry file="file://$PROJECT_DIR$/src/test/Test_fo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/Search_fo_a_Range.java">
+    <entry file="file://$PROJECT_DIR$/src/test/test_for_minpath.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="32" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="9" selection-end-column="32" />
+        <state relative-caret-position="220">
+          <caret line="11" column="36" lean-forward="false" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/Search_Insert_Position.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        <state relative-caret-position="93">
+          <caret line="269" column="25" lean-forward="false" selection-start-line="269" selection-start-column="25" selection-end-line="269" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/Valid_Sudoku.java">
+    <entry file="file://$PROJECT_DIR$/src/Solution/Permutation_Sequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="46" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
+        <state relative-caret-position="171">
+          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/text2.java" />
-    <entry file="file://$PROJECT_DIR$/src/Solution/Sudoku_Solver.java">
+    <entry file="file://$PROJECT_DIR$/src/Solution/Permutations_II.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="26" column="53" lean-forward="false" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
+        <state relative-caret-position="164">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/lang/String.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcoot_contest_47/Kth_largest_Number_in_Multiplication_Table.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="1152" column="15" lean-forward="false" selection-start-line="1152" selection-start-column="15" selection-end-line="1152" selection-end-column="15" />
+        <state relative-caret-position="100">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/lang/Iterable.java">
+    <entry file="file://$PROJECT_DIR$/src/Solution/Add_Binary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="50" column="27" lean-forward="true" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
+        <state relative-caret-position="269">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/Collection.java">
+    <entry file="file://$PROJECT_DIR$/src/Solution/Plus_One.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="143" column="17" lean-forward="false" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+        <state relative-caret-position="340">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/math/BigDecimal.java">
+    <entry file="file://$PROJECT_DIR$/src/test/test_for_plusOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="219" column="13" lean-forward="false" selection-start-line="219" selection-start-column="13" selection-end-line="219" selection-end-column="13" />
+        <state relative-caret-position="220">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/text.java" />
-    <entry file="file://$PROJECT_DIR$/src/External_Sorting/ExternalSort.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcoot_contest_47/Non_decreasing_Array.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-658">
-          <caret line="29" column="43" lean-forward="false" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+        <state relative-caret-position="500">
+          <caret line="25" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/package-info.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/Test_fo.java">
+    <entry file="file://$PROJECT_DIR$/src/Solution/Palindrome_Number.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="100">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/the_wealth/random_wealth.java">
+    <entry file="file://$PROJECT_DIR$/src/Solution/Next_Permutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1857">
-          <caret line="149" column="8" lean-forward="false" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        <state relative-caret-position="100">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
+        <state relative-caret-position="470">
           <caret line="475" column="17" lean-forward="false" selection-start-line="475" selection-start-column="17" selection-end-line="475" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1296">
-          <caret line="173" column="27" lean-forward="false" selection-start-line="173" selection-start-column="27" selection-end-line="173" selection-end-column="27" />
+        <state relative-caret-position="257">
+          <caret line="140" column="15" lean-forward="true" selection-start-line="140" selection-start-column="15" selection-end-line="140" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/Maximum_Product_of_Word_Lengths.java" />
-    <entry file="file://$PROJECT_DIR$/src/Solution/Count_and_Say.java">
+    <entry file="file://$PROJECT_DIR$/src/test_msra.java" />
+    <entry file="file://$PROJECT_DIR$/src/Solution/Edit_Distance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+        <state relative-caret-position="440">
+          <caret line="22" column="35" lean-forward="false" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/First_Missing_Positive.java">
+    <entry file="file://$PROJECT_DIR$/src/Solution/Sqrt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="33" column="5" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="33" selection-end-column="5" />
+        <state relative-caret-position="220">
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="94" column="8" lean-forward="false" selection-start-line="94" selection-start-column="8" selection-end-line="94" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution/Simplify_Path.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="52" column="24" lean-forward="false" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution/Permutations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/someSort/a_read_me">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/someSort/Radix_Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/someSort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="30" column="30" lean-forward="false" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/someSearch/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/someSort/a_test_Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution/Set_Matrix_Zeroes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution/Search_a_2D_Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="78" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution/Search_a_2D_Matrix_II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution/Sort_colors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="50" column="10" lean-forward="true" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution/Word_Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution/Remove_Duplicates_from_Sorted_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="21" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution/Combinations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="52" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution/Combination_Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution/Combination_Sum_II.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/Combination_Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="36" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="36" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/Longest_Substring_with_At_Least_K_Repeating_Characters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        <state relative-caret-position="518">
+          <caret line="47" column="63" lean-forward="false" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/Multiply_Strings.java">
+    <entry file="file://$PROJECT_DIR$/src/Solution/Minimum_Window_Substring.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/Trapping_Rain_Water.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="518">
+          <caret line="61" column="13" lean-forward="false" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/Add_two_numbers.java">
+    <entry file="file://$PROJECT_DIR$/src/Solution/Subsets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/Wildcard_Matching_DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="32" column="5" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/Wildcard_Matching_greedy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/someSort/heapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1040">
-          <caret line="52" column="1" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="52" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/someSort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="32" column="1" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="32" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/someSort/Two_mergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="23" column="29" lean-forward="false" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/Jump_Game_II.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/Permutations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="22" column="4" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
+        <state relative-caret-position="518">
+          <caret line="42" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution/Permutations_II.java">
+    <entry file="file://$PROJECT_DIR$/src/test/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="46" column="5" lean-forward="true" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="220">
+          <caret line="13" column="53" lean-forward="false" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
+          <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution/Remove_Duplicates_from_Sorted_List_II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution/Search_in_Rotated_Sorted_Array_II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="39" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution/Remove_Duplicates_from_Sorted_List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution/Partition_List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>leetcode_summer</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
